@@ -36,7 +36,7 @@ Experimental Setting: Source dataset (train) -> Target dataset (target)
 
 ### Visualization
 
-<font size=3>Detection results on Dark Face and COCO</font>
+<font size=3>Detection results on Dark Face and ExDark</font>
 ![alt](./assets/vis1.png)
 
 <font size=3>Visualization of original image, pseudo ground truth, and predicted reflectance</font>
