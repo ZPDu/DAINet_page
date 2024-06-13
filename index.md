@@ -42,6 +42,17 @@ Experimental Setting: Source dataset (train) -> Target dataset (target)
 <font size=3>Visualization of original image, pseudo ground truth, and predicted reflectance</font>
 ![alt](./assets/vis2.png)
 # Citation
+
+```
+@inproceedings{du2024boosting,
+  title={Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation},
+  author={Du, Zhipeng and Shi, Miaojing and Deng, Jiankang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12666--12676},
+  year={2024}
+}
+```
+or
 ```
 @article{du2023boosting,
   title={Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation},
